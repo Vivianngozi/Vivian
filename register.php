@@ -122,4 +122,5 @@ echo $confirm_password; ?>">
         
 </div>
 </div>
+
 <?php require 'footer.php'; ?>
